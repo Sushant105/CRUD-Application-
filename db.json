@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "Sushant",
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 7,
+      "firstName": "dsknsdbcsohsdU",
+      "lastName": "dsknsdbcsohsdU",
+      "email": "dsknsdbcsohsdU",
+      "mobile": "dsknsdbcsohsdU",
+      "salary": "dsknsdbcsohsdU"
+    },
+    {
+      "id": 8,
+      "firstName": "buck",
+      "lastName": "buck",
+      "email": "buck@mail.com",
+      "mobile": "56765456549",
+      "salary": "121000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 2,
+      "fullName": "Sushant",
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "fullname": "vivek",
+      "email": "vivek@vivek.com",
+      "password": "vivek",
+      "mobile": 9915917513,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
